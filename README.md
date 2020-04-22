@@ -391,3 +391,8 @@ fitting the model - "random forest"
 <http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/#eigenvalues-variances>
 <https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html>
 <https://github.com/lgreski/datasciencectacontent/blob/master/markdown/pml-randomForestPerformance.md>
+
+
+This Github repo includes the R markdown and compiled HTML file describing my analysis for the final assignment for the - 8th course of the Data Science Specialization Class offered by the John Hopkins University (https://www.coursera.org/learn/practical-machine-learning/home/welcome)
+
+successfil completion with (grade: 99%) https://www.coursera.org/account/accomplishments/certificate/AZYJUJJXTXNB
